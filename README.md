@@ -13,7 +13,7 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Para acessar a gravação do evento no **YouTube** clique neste [**link**](https://www.youtube.com/watch?v=1qzRKWwZoQs).
 
-Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e o [**Microsoft Reactor**](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/).
+Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.youtube.com/azurenapratica) e o [**Microsoft Reactor**](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/).
 
 Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/pt-br/reactor/events/24722/?wt.mc_id=meetup_24722_webpage_reactor)
 
