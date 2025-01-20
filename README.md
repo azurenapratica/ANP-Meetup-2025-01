@@ -9,6 +9,24 @@ Número de participantes: **33 pessoas**
 
 ---
 
+Apresentações que aconteceram durante o evento:
+
+_# Azure Managed Grafana: monitoramento na nuvem com eficiência e flexibilidade_
+
+Palestrantes:
+- Renato Groffe - Microsoft MVP, Docker Captain, MTAC
+- Milton Camara Gomes - Microsoft MVP, MTAC
+
+Tecnologias abordadas: **Docker, Kubernetes, KEDA, Azure Kubernetes Service (AKS), Grafana, Prometheus, Azure Container Apps, Azure Monitor, Log Analytics, Application Insights...**
+
+_# A Jornada da Modernização: Como Microsoft Azure e Copilot podem ajudar nesta empreitada!_
+
+Palestrante: Jaqueline Ramos - Technical Trainer LATAM/Americas na Microsoft, ex-MVP Microsoft (DevOps e Azure) e MVP Alumini
+
+Tecnologias e tópicos abordados: **Microsoft Azure, Copilot, Azure DevOps, GitHub, Cloud Adoption Framework...**
+
+---
+
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Para acessar a gravação do evento no **YouTube** clique neste [**link**](https://www.youtube.com/watch?v=1qzRKWwZoQs).
