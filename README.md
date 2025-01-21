@@ -48,3 +48,9 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ![Renato e Milton palestrando](img/anp-05.jpg)
 
 ![Renato e Milton palestrando](img/anp-09.jpg)
+
+![Jaqueline palestrando](img/anp-11.jpg)
+
+![Jaqueline palestrando](img/anp-13.jpg)
+
+![Jaqueline palestrando](img/anp-20.jpg)
