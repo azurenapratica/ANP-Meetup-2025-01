@@ -41,3 +41,10 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ---
 
+![Banner do evento](img/banner.png)
+
+![Renato e Milton palestrando](img/anp-01.jpg)
+
+![Renato e Milton palestrando](img/anp-05.jpg)
+
+![Renato e Milton palestrando](img/anp-09.jpg)
